@@ -14,9 +14,13 @@ nav {
   }
 
 .navbar-default, .navbar-toggle:focus, .collapsed, button.navbar-toggle {
-    background: $navbarColor !important;
+    background: #323738 !important;
     border: none;
     a {
       color: white !important;
     }
   }
+
+  body {
+    margin-top: 50px;
+   }
